@@ -1,0 +1,153 @@
+Keyword,Related Topic,Topic Type,Value
+Shirts,Shirt,Garment,100
+Shirts,T-shirt,Clothing,63
+Shirts,Sleeve,Topic,9
+Shirts,Dress shirt,Dress,7
+Shirts,Polo shirt,Clothing,6
+Shirts,Button,Topic,3
+Shirts,Men's Shirt,Topic,2
+Shirts,JiffyShirts.com,Topic,2
+Shirts,Graphics,Topic,1
+Shirts,Flannel,Fabric,1
+Tops,Top,Clothing,100
+Tops,Sleeveless shirt,Clothing,16
+Tops,High-top,Topic,15
+Tops,Sleeve,Topic,11
+Tops,Crop top,Clothing,7
+Tops,Plus-size clothing,Clothing,6
+Tops,Converse,Topic,4
+Tops,Blouse,Garment,4
+Tops,Tunic,Garment,3
+Tops,Tops Friendly Markets,Supermarket chain,2
+Jeans,Jeans,Clothing,100
+Jeans,Bell-bottoms,Clothing,6
+Jeans,Denim,Textile,6
+Jeans,Levi's,Topic,6
+Jeans,Levi Strauss & Co.,Clothing company,6
+Jeans,Wide-leg jeans,Topic,4
+Jeans,Levi’s,Fashion brand,4
+Jeans,Slim-fit pants,Topic,3
+Jeans,High-rise,Fashion,3
+Jeans,Judy Blue,Topic,2
+T-shirts,T-shirt,Clothing,100
+T-shirts,Shirt,Garment,93
+T-shirts,custom-made,Topic,6
+T-shirts,Printing,Visual art form,4
+T-shirts,Cotton,Fiber,4
+T-shirts,Graphics,Topic,3
+T-shirts,Gildan,Topic,1
+T-shirts,Big Frog Custom T-Shirts & More,Topic,1
+T-shirts,Concert T-shirt,Topic,0
+T-shirts,Custom Ink,Online retail,0
+Polo,Polo shirt,Clothing,100
+Polo,Ralph Lauren,Topic,55
+Polo,Ralph Lauren Corporation,Fashion company,55
+Polo,Shirt,Garment,54
+Polo,Ralph Lauren,Fashion label,38
+Polo,United States Polo Association,Sports governing body,4
+Polo,US Polo,Topic,4
+Polo,Collar,Clothing,3
+Polo,Oxford,Cloth,0
+Pants,Trousers,Clothing,100
+Pants,Cargo pants,Clothing,11
+Pants,Cargo,Topic,7
+Pants,Sweatpants,Clothing,3
+Pants,Dress Pants,Topic,3
+Pants,Khaki,Shade,3
+Pants,Bell-bottoms,Clothing,2
+Pants,Dickies,Topic,2
+Pants,Men's Pants,Topic,2
+Pants,Corduroy,Textile,2
+Tanks,Tank,Topic,100
+Tanks,Helium,Chemical element,40
+Tanks,Top,Clothing,20
+Tanks,Sleeveless shirt,Clothing,18
+Tanks,Helium Tanks,Topic,16
+Tanks,Storage tank,Topic,10
+Tanks,Balloon,Topic,9
+Tanks,World of Tanks,Online game,5
+Tanks,World of Tanks,Game series,5
+Tanks,Crop top,Clothing,4
+Shorts,Shorts,Garment,100
+Shorts,YouTube Shorts,Topic,10
+Shorts,YouTube,Video sharing company,9
+Shorts,Jean Shorts,Topic,4
+Shorts,Gym shorts,Topic,4
+Shorts,Cycling shorts,Garment,4
+Shorts,Men's Shorts,Topic,3
+Shorts,Running shorts,Topic,2
+Shorts,Cargo Shorts,Topic,2
+Shorts,Compression garment,Topic,1
+Joggers,Joggers,Topic,100
+Joggers,Trousers,Clothing,22
+Joggers,Sweatpants,Clothing,10
+Joggers,Jogging,Topic,8
+Joggers,Cargo pants,Clothing,6
+Joggers,Polar fleece,Fabric,5
+Joggers,Under Armour,Fashion brand,2
+Joggers,Vuori,Topic,2
+Joggers,Inseam,Topic,1
+Joggers,Scrubs,Topic,0
+Sweaters,Sweater,Clothing,100
+Sweaters,Autumn,Topic,6
+Sweaters,Cardigan,Sweater,6
+Sweaters,Women's Sweater,Topic,6
+Sweaters,Knitting,Topic,4
+Sweaters,Men's Sweater,Topic,3
+Sweaters,Cashmere wool,Fiber,3
+Sweaters,Wool,Fibre,3
+Sweaters,Christmas jumper,Garment,3
+Sweaters,Knitted fabric,Topic,1
+Jackets,Jacket,Garment,100
+Jackets,Winter,Topic,8
+Jackets,Leather jacket,Apparel,5
+Jackets,Rain,Topic,5
+Jackets,Autumn,Topic,5
+Jackets,The North Face,Topic,4
+Jackets,Jean jacket,Apparel,4
+Jackets,Down jacket,Clothing,4
+Jackets,Flight jacket,Topic,2
+Jackets,Polar fleece,Fabric,2
+Sweatshirts,Sweatshirt,Topic,100
+Sweatshirts,Hoodie,Clothing,20
+Sweatshirts,Sweater,Clothing,11
+Sweatshirts,Sweatshirt,Topic,4
+Sweatshirts,Crew neck,Topic,4
+Sweatshirts,Hood,Headgear,2
+Sweatshirts,Graphics,Topic,2
+Sweatshirts,College,School category,2
+Sweatshirts,Embroidery,Topic,2
+Sweatshirts,BELLA+CANVAS,Topic,0
+Sweatpants,Sweatpants,Clothing,100
+Sweatpants,Grey,Color,8
+Sweatpants,Wide-leg jeans,Topic,3
+Sweatpants,Bell-bottoms,Clothing,3
+Sweatpants,Cargo pants,Clothing,3
+Sweatpants,Joggers,Topic,3
+Sweatpants,Polar fleece,Fabric,2
+Sweatpants,Champion,Topic,2
+Sweatpants,Gallery Dept.,Topic,2
+Sweatpants,Pink,Victoria's Secret,2
+hoodies,Hoodie,Clothing,100
+hoodies,Zipper,Topic,7
+hoodies,Graphics,Topic,3
+underwear,Underwear,Clothing,100
+underwear,Men's Underwear,Topic,6
+underwear,Cotton,Fiber,5
+underwear,Women's Underwear,Topic,4
+underwear,Menstruation,Topic,3
+underwear,Calvin Klein,Fashion brand,3
+underwear,Period underwear,Garment,3
+underwear,Briefs,Clothing,3
+underwear,Hanes,Topic,3
+underwear,PSD,Topic,3
+socks,Sock,Clothing,100
+socks,Compression stockings,Garment,14
+socks,Compression garment,Topic,10
+socks,Compression Sock,Topic,6
+socks,Ankle,Topic,4
+socks,Knee,Topic,3
+socks,Knee highs,Apparel,2
+socks,Wool,Fibre,2
+socks,Dress socks,Dress,2
+socks,Men's Sock,Topic,1

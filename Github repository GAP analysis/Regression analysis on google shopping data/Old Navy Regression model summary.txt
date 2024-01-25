@@ -1,0 +1,45 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           Proxy_rating   R-squared:                       0.394
+Model:                            OLS   Adj. R-squared:                  0.375
+Method:                 Least Squares   F-statistic:                     20.14
+Date:                Sun, 01 Oct 2023   Prob (F-statistic):           1.04e-41
+Time:                        20:17:11   Log-Likelihood:                 240.56
+No. Observations:                 480   AIC:                            -449.1
+Df Residuals:                     464   BIC:                            -382.3
+Df Model:                          15                                         
+Covariance Type:            nonrobust                                         
+==============================================================================================
+                                 coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+const                          4.7488      0.025    192.815      0.000       4.700       4.797
+Proxy_reviews               1.357e-05   3.71e-06      3.657      0.000    6.28e-06    2.09e-05
+Discount                       0.0020      0.001      1.517      0.130      -0.001       0.005
+Promo_1                       -0.0062      0.022     -0.276      0.782      -0.050       0.038
+Promo_2                        0.0203      0.021      0.985      0.325      -0.020       0.061
+Proxy_store                    0.0040      0.063      0.064      0.949      -0.121       0.129
+Proxy_seller_1              9.033e-17   1.18e-17      7.634      0.000    6.71e-17    1.14e-16
+Proxy_seller_2               5.17e-16   2.37e-17     21.788      0.000     4.7e-16    5.64e-16
+Proxy_seller_3                 0.0070      0.064      0.110      0.913      -0.118       0.132
+Proxy_seller_4             -4.116e-16   1.26e-16     -3.279      0.001   -6.58e-16   -1.65e-16
+Proxy_seller_5                -0.4277      0.169     -2.528      0.012      -0.760      -0.095
+Proxy_seller_6                 0.0045      0.031      0.147      0.883      -0.056       0.065
+Proxy_seller_7             -1.823e-16   8.68e-17     -2.101      0.036   -3.53e-16   -1.18e-17
+Query_old navy jeans          -0.2989      0.030     -9.907      0.000      -0.358      -0.240
+Query_old navy pants          -0.2316      0.028     -8.220      0.000      -0.287      -0.176
+Query_old navy polo           -0.0159      0.028     -0.574      0.566      -0.070       0.039
+Query_old navy shirts         -0.0521      0.029     -1.769      0.077      -0.110       0.006
+Query_old navy sweatshirts    -0.0050      0.028     -0.181      0.857      -0.059       0.049
+Query_old navy tops           -0.2420      0.030     -8.163      0.000      -0.300      -0.184
+Query_old navy tshirts         0.0084      0.030      0.283      0.778      -0.050       0.067
+==============================================================================
+Omnibus:                      194.474   Durbin-Watson:                   1.944
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1040.315
+Skew:                          -1.697   Prob(JB):                    1.25e-226
+Kurtosis:                       9.364   Cond. No.                     2.87e+20
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 3.11e-32. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

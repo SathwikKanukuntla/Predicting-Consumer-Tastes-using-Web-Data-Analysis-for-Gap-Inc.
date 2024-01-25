@@ -1,0 +1,2 @@
+Run the Regression analysis.ipynb. 
+All the results can be found in the detailed report!
